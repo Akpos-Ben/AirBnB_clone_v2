@@ -1,8 +1,0 @@
-U
-dule for HBNB project é    )Ú	BaseModelÚBase)
-    gnKey)eÚrelationshipc                   @   sH   e Zede~«cù  ã                   @   sJ   d Z d
-ntains state ID and name Úcitiesé€   F)gnKey)eÚrelationshipc                   @   sH   e Zednullableé<   z	states.idÚPlacez
-all, delete)Ú backrefÚ cascadeN)__name__Ú
-__module__Ú__qualname__Ú __doc__Ú
-__tablename__r   r   Únamer   state_idr    Úplaces© r   r   ú,/home/vagrant/AirBnB_clone_v2/models/city.py     s
-gnKey)eÚrelationshipc                   @   sH   e ZedgnKey)eÚrelationshipc                   @   sH   e Zedlchemyr   r   r   Úsqlalchemy.ormr       

@@ -1,47 +1,0 @@
-U
-    Õ~«cK
-  ã                
-)z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curÚidr   Úappend)Úselfr   Ú my_listZextracted_reviewsÚreview© r%   ú-/home/vagrant/AirBnB_clone_v2/models/place.pyÚ reviews"   seModelÚBase     )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the cur )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr )z€Getter attribute reviews that returns the list of Review instances
-        with place_id equals to the currz
-Place.reviewsc )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr                 C   sB   d )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the currdl m )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr} )z€Getter attribute reviews that returns the list of Review instances
-with place_id equals to the curr )z€Getter attribute reviews that returns the list of Review instances
-        with place_id equals to the curr g }|
-ForeignKeyÚFloatÚTable)U
-    Õ~«cK
-  ã                
-   @   s’   d Ztay Úplacesr
-z	cities.idF)seModelÚBase)ÚColumnÚStringÚ IntegerÚ
-ForeignKeyÚFloatÚTable)U
-    Õ~«cK
-  ã                
-@   s’   d Z ddlmÚrelatrd  users.idé€   i   rtay Úplacesr
-z	cities.idF)seModelÚBase)ÚColumnÚStringÚ IntegerÚ
-ForeignKeyÚFloatÚTable)U
-    Õ~«cK
-  ã                
-   @   s’   d Z ddlmÚrelatr   )r  Ú defaultÚReviewZplacez
-all, delete)Ú backrefÚ cascadeÚ Amenity)Ú	secondaryviewonlyc  users.idé€   i   rtay Úplacesr
-z	cities.idF)seModelÚBase)ÚColumnÚStringÚ IntegerÚ
-ForeignKeyÚFloatÚTable)U
-    Õ~«cK
-  ã                
-@   s’   d Z ddlmÚrelatr   )r                 C   sB   d  users.idé€   i   rtay Úplacesr
-z	cities.idF)seModelÚBase)ÚColumnÚStringÚ IntegerÚ
-ForeignKeyÚFloatÚTable)U
-    Õ~«cK
-  ã                
-   @   s’   d Z ddlmÚrelat ttribute that returns the list of Amenity instances based on
-        the attribute amenity_ids that contains all Amenity.id linked to the
-        Place.
-          emy.ormr
-   metadatar
-   r   r%   r%   r%   r&   <module>   s  r  )rdlmÚrelatdl menity_idsr!   )r"   r   r#   Zextracted_amenitiesZ amenityr%   r%   r&   Ú	amenities/ 
